@@ -1,0 +1,22 @@
+/* Criando um CSS de forma para ser local e não global, pois está sendo utilizado a palavra "module"
+no nome */
+
+#integracao2 {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vermelho {
+    color: red;
+}
+
+.azul {
+    color: blue;
+}
+
+.branco {
+    color: white;
+    background-color: black;
+}

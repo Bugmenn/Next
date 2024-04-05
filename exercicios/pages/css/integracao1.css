@@ -1,12 +1,17 @@
-.vermelho {
+/* Para importar o css, deve importa-lo dentro do arquivo _app.js
+ Sendo essa importação global, ou seja, todos podem usar, assim causa o problema de utilização
+ portanto deve-se colocar especificações (se for filho) para não gerar problemas. */
+
+/* Nesse caso só vai ser estilizado se vermelho for filho de integracao1*/
+.integracao1 .vermelho {
     color: red;
 }
 
-.azul {
+.integracao1 .azul {
     color: blue;
 }
 
-.branco {
+.integracao1 .branco {
     color: white;
     background-color: black;
 }
