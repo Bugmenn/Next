@@ -1,1 +1,1 @@
-# Está pasta não cria paginas HTML
+# Está pasta não cria páginas HTML servem somente para ser exportada para outros usos
