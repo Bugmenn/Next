@@ -105,3 +105,12 @@ a {
     color-scheme: dark;
   }
 }
+
+/*sendo utilizado no arquivo Estilo na pasta components*/
+.vermelho {
+  background-color: crimson;
+}
+
+.azul {
+  background-color: dodgerblue;
+}

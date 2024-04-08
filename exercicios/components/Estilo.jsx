@@ -1,4 +1,7 @@
 export default function Estilo(props) {
+    // azul e vermelho estão no css global na pasta styles
+    const classeAplicada = props.numero>= 0 ? "azul" : "vermelho"
+    
     return (
         <div>
             {/*utilizando duas chaves se cria um objeto e assim podendo se utilizar css*/}
@@ -6,9 +9,12 @@ export default function Estilo(props) {
             <h1 style={{
                 backgroundColor: props.numero>=0 ? "#2D2" : "#D22",
                 color: props.color,
+                textAlign: props.direita ? "right" : "left"
             }}>
-                Texto
+                Texto1
             </h1>
+            <h2 className={classeAplicada}>Texto2</h2>
+            <br/>
         </div>
     )
 }
