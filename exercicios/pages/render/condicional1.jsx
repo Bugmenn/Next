@@ -14,7 +14,6 @@ export default function condicional1() {
             <SomentePar numero={8}/>
             <SomentePar numero={9}/>
             <SomentePar numero={10}/>
-
         </div>
     )
 }
