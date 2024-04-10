@@ -1,5 +1,5 @@
 // chamada de função por meio de evento
-// e é de evento
+// "e" é de evento
 function acao1() {
     console.log("acao1")
 }
