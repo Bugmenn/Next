@@ -1,4 +1,4 @@
-import Estilo from "@/components/Estilo";
+import Estilo from "../../components/Estilo";
 
 // aplicando css por meio de jsx sem utilizar um arquivo css especifico
 export default function usandoEstilo() {

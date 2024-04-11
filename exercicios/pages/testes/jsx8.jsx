@@ -1,4 +1,4 @@
-import Titulo from "@/components/Titulo"
+import Titulo from "../../components/Titulo"
 
 // utilizando o arquivo Titulo em outra pasta e mudando as informações
 export default function pegarOutraFunc() {

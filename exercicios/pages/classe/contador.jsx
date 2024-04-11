@@ -1,5 +1,5 @@
 import { Component } from "react";
-import Contador from "@/components/contador";
+import Contador from "../../components/contador";
 
 // componente baseado em classe
 export default class ContadorPage extends Component {

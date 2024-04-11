@@ -1,7 +1,7 @@
 // Utilizando dois componentes para criar a página
 
-import Item from "@/components/Item";
-import Lista from "@/components/lista";
+import Item from "../../components/Item";
+import Lista from "../../components/lista";
 
 export default function componenteComFilho() {
     return (

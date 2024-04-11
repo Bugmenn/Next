@@ -1,4 +1,4 @@
-import If from "@/components/if"
+import If from "../../components/if"
 
 export default function condicional2() {
     const numero = 3

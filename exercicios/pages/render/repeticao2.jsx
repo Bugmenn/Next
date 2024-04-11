@@ -1,4 +1,4 @@
-import listaProdutos from "@/data/listaProdutos"
+import listaProdutos from "../../data/listaProdutos"
 
 export default function repeticao2() {
     

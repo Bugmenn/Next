@@ -1,4 +1,5 @@
-import Pai from "@/components/direta/Pai";
+import Pai from "../../components/direta/Pai";
+
 // o componente manda a informação para o pai que manda para o filho, sendo em cascata
 export default function direta() {
     return (

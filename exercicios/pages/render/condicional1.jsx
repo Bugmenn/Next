@@ -1,5 +1,5 @@
 // redenrização condicional, nesse caso só mostra os pares
-import SomentePar from "@/components/SomentePar"
+import SomentePar from "../../components/SomentePar"
 
 export default function condicional1() {
     return (
