@@ -1,2 +1,2 @@
-# NEXT
-Repositorio para a realização de testes Next
+# React
+Repositorio para a realização de testes React
